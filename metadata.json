@@ -1,0 +1,7 @@
+{
+  "name": "Notar - Gestão Inteligente de Notas",
+  "description": "Sistema de gestão de notas fiscais com integração WhatsApp e OCR via Gemini AI para contabilidades e empresas.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
